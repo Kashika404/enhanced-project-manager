@@ -1,0 +1,23 @@
+Binaries and build outputs
+
+**/bin/
+**/obj/
+
+Source control files
+
+.git
+.gitignore
+.svn
+.vs/
+
+Visual Studio files
+
+*.sln
+*.suo
+*.user
+*.pdb
+*.orig
+
+Package files
+
+*.nupkg
